@@ -4,7 +4,6 @@ import android.os.Bundle;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
-import com.mygdx.game.MyGdxGame;
 
 public class AndroidLauncher extends AndroidApplication {
 	@Override
@@ -12,7 +11,13 @@ public class AndroidLauncher extends AndroidApplication {
 		super.onCreate(savedInstanceState);
 		AndroidApplicationConfiguration config = new AndroidApplicationConfiguration();
 
-		initialize(new MyGdxGame(), config);
+		initialize(new MYGdxGame(), config);
+
+
+
+
+
+
 
 	}
 }

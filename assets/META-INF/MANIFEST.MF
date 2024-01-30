@@ -1,0 +1,31 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: lwjgl-glfw-3.3.3.jar lwjgl-opengl-3.3.3-natives-windows.jar 
+ lwjgl-jemalloc-3.3.3.jar lwjgl-openal-3.3.3.jar lwjgl-stb-3.3.3-natives
+ -linux-arm32.jar lwjgl-openal-3.3.3-natives-windows.jar lwjgl-opengl-3.
+ 3.3-natives-linux-arm32.jar lwjgl-glfw-3.3.3-natives-linux-arm32.jar lw
+ jgl-3.3.3-natives-linux.jar lwjgl-openal-3.3.3-natives-linux-arm32.jar 
+ lwjgl-glfw-3.3.3-natives-windows.jar lwjgl-openal-3.3.3-natives-linux-a
+ rm64.jar lwjgl-opengl-3.3.3-natives-macos.jar lwjgl-stb-3.3.3-natives-w
+ indows.jar lwjgl-jemalloc-3.3.3-natives-macos.jar lwjgl-3.3.3.jar lwjgl
+ -glfw-3.3.3-natives-linux.jar lwjgl-openal-3.3.3-natives-linux.jar lwjg
+ l-openal-3.3.3-natives-macos-arm64.jar lwjgl-stb-3.3.3-natives-linux.ja
+ r lwjgl-3.3.3-natives-windows-x86.jar lwjgl-jemalloc-3.3.3-natives-wind
+ ows-x86.jar lwjgl-3.3.3-natives-macos.jar lwjgl-glfw-3.3.3-natives-maco
+ s.jar lwjgl-glfw-3.3.3-natives-windows-x86.jar lwjgl-openal-3.3.3-nativ
+ es-macos.jar gdx-platform-1.12.1-natives-desktop.jar gdx-backend-lwjgl3
+ -1.12.1.jar gdx-1.12.1.jar lwjgl-jemalloc-3.3.3-natives-linux-arm64.jar
+  lwjgl-stb-3.3.3-natives-macos.jar lwjgl-stb-3.3.3-natives-linux-arm64.
+ jar lwjgl-3.3.3-natives-windows.jar lwjgl-jemalloc-3.3.3-natives-linux-
+ arm32.jar lwjgl-openal-3.3.3-natives-windows-x86.jar lwjgl-stb-3.3.3-na
+ tives-windows-x86.jar lwjgl-3.3.3-natives-linux-arm32.jar lwjgl-jemallo
+ c-3.3.3-natives-macos-arm64.jar lwjgl-jemalloc-3.3.3-natives-windows.ja
+ r gdx-jnigen-loader-2.3.1.jar lwjgl-3.3.3-natives-linux-arm64.jar lwjgl
+ -opengl-3.3.3-natives-linux.jar lwjgl-stb-3.3.3-natives-macos-arm64.jar
+  lwjgl-glfw-3.3.3-natives-linux-arm64.jar lwjgl-opengl-3.3.3-natives-ma
+ cos-arm64.jar lwjgl-stb-3.3.3.jar lwjgl-opengl-3.3.3.jar jorbis-0.0.17.
+ jar lwjgl-3.3.3-natives-macos-arm64.jar jlayer-1.0.1-gdx.jar lwjgl-open
+ gl-3.3.3-natives-windows-x86.jar lwjgl-opengl-3.3.3-natives-linux-arm64
+ .jar lwjgl-glfw-3.3.3-natives-macos-arm64.jar lwjgl-jemalloc-3.3.3-nati
+ ves-linux.jar
+
